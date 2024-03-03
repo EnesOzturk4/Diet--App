@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\AdminHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\FoodCategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\NutrientCategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\RePastForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\StatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\User\StatusUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\User\UserInfomation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\Admin\YourInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\User\UserHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
